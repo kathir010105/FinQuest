@@ -1,0 +1,1 @@
+FinQuest* is a personal finance web app that transforms the mundane tasks of budgeting, saving, and tracking expenses into a Role-Playing Game (RPG). Users create a character, complete financial "quests," earn XP, level up, and unlock achievements, making financial discipline feel rewarding and fun.
